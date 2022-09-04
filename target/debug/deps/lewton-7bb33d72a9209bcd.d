@@ -1,0 +1,13 @@
+/Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/target/debug/deps/lewton-7bb33d72a9209bcd.rmeta: /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/target/debug/deps/lewton-7bb33d72a9209bcd.d: /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs
+
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/lib.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/header_cached.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/huffman_tree.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/imdct.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/audio.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/bitpacking.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/inside_ogg.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/lewton-0.10.2/src/samples.rs:

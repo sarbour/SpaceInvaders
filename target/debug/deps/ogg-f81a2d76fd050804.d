@@ -1,0 +1,8 @@
+/Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/target/debug/deps/ogg-f81a2d76fd050804.rmeta: /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/lib.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/crc.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/reading.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/writing.rs
+
+/Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/target/debug/deps/ogg-f81a2d76fd050804.d: /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/lib.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/crc.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/reading.rs /Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/writing.rs
+
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/lib.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/crc.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/reading.rs:
+/Users/spenny/.cargo/registry/src/github.com-1ecc6299db9ec823/ogg-0.8.0/src/writing.rs:

@@ -1,1 +1,0 @@
-/Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/target/release/invaders: /Users/spenny/Documents/RustCrashCourse/ultimate_rust_crash_course/exercise/invaders/src/main.rs
